@@ -20,3 +20,5 @@ This is a simple command-line Tic-Tac-Toe game implemented in C++.
 - Upon running the game, follow the prompts to choose the game mode and board size.
 - Enter the row and column number to place your marker (e.g., X or O).
 - The game will continue until a player wins or the board is full (resulting in a draw).
+- https://github.com/Sukruthareddy12/tic-tac-toe-game/assets/153543378/645cd32d-a218-4421-b4cc-e334b67399f1
+
